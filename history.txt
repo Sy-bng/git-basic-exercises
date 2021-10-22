@@ -1,0 +1,103 @@
+    1  cd
+    2  git init
+    3  git add*.c
+    4  git add LICENSE
+    5  git commit -m 'Initial project version'
+    6  git config --global user.name "Sanele Bango"
+    7  git config --global user.email bangosanele14@gmail.com
+    8  git config --list
+    9  git config user.name
+   10  git config user.email
+   11  git init
+   12  git status
+   13  echo 'My Project' > README
+   14  git status
+   15  git add README
+   16  git status
+   17  CONTRIBUTING.md
+   18  git status
+   19  git status
+   20  git add CONTRIBUTING.md
+   21  git status
+   22  mkdir git-basic-exercises
+   23  cd
+   24  cd git-basic-exercises
+   25  ls -a
+   26  git init
+   27  ls -a
+   28  git status
+   29  touch README.md
+   30  ls -a
+   31  git status
+   32  git log
+   33  git add README
+   34  git status
+   35  git add README
+   36  git status
+   37  git add README.md
+   38  git status
+   39  git rm --cached README.md
+   40  git status
+   41  git add README.md
+   42  git status
+   43  git commit -m "initial commit"
+   44  git log
+   45  q
+   46  git log 
+   47  q
+   48  nano README.md
+   49  git status
+   50  git add README.md
+   51  git status
+   52  git commit -m "second commit"
+   53  nano README.md 
+   54  cat README.md
+   55  git status
+   56  git add README.md
+   57  git status
+   58  git commit -m "third commit"
+   59  git log
+   60  q
+   61  :q
+   62  git checkout 
+   63  commit d319dcccaf9dbab6b72320792aec4136c13a53bd
+   64  git checkout commit d319dcccaf9dbab6b72320792aec4136c13a53bd
+   65  cat README.md
+   66  git checkout
+   67  commit d319dcccaf9dbab6b72320792aec4136c13a53bd
+   68  cat README.md
+   69  git checkoutis.
+   70  Nonetheless it is worthy the effort because the acquiring new knoweldge is important
+   71  git checkout commit d319dcccaf9dbab6b72320792aec4136c13a53bd
+   72  git checkoutcommit d319dcccaf9dbab6b72320792aec4136c13a53bd
+   73  git checkout commit d319dcccaf9dbab6b72320792aec4136c13a53bd
+   74  cat README.md
+   75  git checkout main
+   76  cat README.md
+   77  git branch
+   78  git branch milkshake-flavours
+   79  git branch
+   80  git checkout 
+   81  git branch
+   82  git checkout <milkshake-flavours>
+   83  git branch -a
+   84  git checkout milkshake-flavours
+   85  git branch
+   86  git checkout master
+   87  git branch
+   88  git checkout milkshake-flavours
+   89  git branch
+   90  nano milkshake-flavours.md
+   91  git status
+   92  git add milkshake-flavours.md
+   93  git status
+   94  git commit -m "added initial flavours"
+   95  git log
+   96  git checkout masters
+   97  git branch 
+   98  git checkout master
+   99  git branch history
+  100  git checkout history
+  101  git log
+  102  git branch
+  103  history > history.txt
